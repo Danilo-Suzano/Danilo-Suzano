@@ -1,4 +1,4 @@
-👩🏻‍💻 Danilo Suzano
+##👩🏻‍💻 Danilo Suzano
 Desenvolvedor FullStack
 
 Olá! Meu nome é Danilo Araujo Suzano, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Rosário e atualmente curso Sistemas de Informação na FOA. Sou apaixonado por tecnologia e atuo no desenvolvimento de sistemas, buscando sempre oferecer soluções personalizadas e eficientes. Estou em constante aprendizado e motivado a transformar ideias em soluções reais que gerem impacto.
