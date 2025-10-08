@@ -45,14 +45,7 @@ Olá! Meu nome é Danilo Araujo Suzano, tenho 22 anos e sou natural do Rio de Ja
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
