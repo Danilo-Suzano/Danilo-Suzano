@@ -109,17 +109,17 @@ Olá! Meu nome é Danilo Araujo Suzano, tenho 22 anos e sou natural do Rio de Ja
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 
-<p>
-  <!-- <img
+
+<!-- <p>
+  <img
   align="left"
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=Danilo-Suzano&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
-/> -->
+/>
 
 
   <img 
@@ -128,6 +128,6 @@ Olá! Meu nome é Danilo Araujo Suzano, tenho 22 anos e sou natural do Rio de Ja
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Suzano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->
 
 
