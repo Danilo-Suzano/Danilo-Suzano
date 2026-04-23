@@ -5,9 +5,11 @@
 
 *Building and shipping production web applications for real clients across multiple industries.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-danilosuzano.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danilosuzano.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_Suzano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-araujo-suzano-616a43249/)
-[![Email](https://img.shields.io/badge/Email-dev@danilosuzano.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@danilosuzano.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-danilosuzano.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://danilosuzano.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-araujo-suzano-616a43249/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-dev@danilosuzano.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@danilosuzano.com)
 
 </div>
 
@@ -35,7 +37,7 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 
-<br/>
+<br/><br/>
 
 **Frontend**
 
@@ -45,7 +47,7 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="40" title="Three.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>
 
-<br/>
+<br/><br/>
 
 **Backend**
 
@@ -54,7 +56,7 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" title="Django"/>
 
-<br/>
+<br/><br/>
 
 **Database & DevOps**
 
@@ -72,7 +74,7 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danilo-Suzanostreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklytheme=tokyonightstreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklyhide_border=truestreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklycount_private=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,6 +94,6 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 
 *Currently open to remote opportunities worldwide.*
 
-[![Portfolio](https://img.shields.io/badge/See_my_work-danilosuzano.com-000000?style=for-the-badge)](https://danilosuzano.com)
+[![See my work](https://img.shields.io/badge/See_my_work-danilosuzano.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://danilosuzano.com)
 
 </div>
