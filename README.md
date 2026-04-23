@@ -68,15 +68,6 @@ Currently finishing my B.S. in Computer Science at UNIFOA (expected Jun 2026).
 
 </div>
 
----
-
-## Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danilo-Suzanostreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklytheme=tokyonightstreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklyhide_border=truestreak-stats.demolab.com?user=Danilo-Suzano&theme=tokyonight&hide_border=true&locale=en&mode=weeklycount_private=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
